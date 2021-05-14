@@ -1,1 +1,3 @@
 names: foo-dev-3
+app:
+  name: config-prop-foo-dev
