@@ -2,4 +2,4 @@ app:
   message: Hello-dev-1
 name-service:
   ribbon:
-    listOfServers: http://localhost:7070,http://localhost:7071
+    listOfServers: http://localhost:7070, http://localhost:7071
