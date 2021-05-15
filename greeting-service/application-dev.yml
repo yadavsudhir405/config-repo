@@ -1,2 +1,5 @@
 app:
   message: Hello-dev-1
+name-service:
+  ribbon:
+    listOfServers: localhost:7070,localhost:7071

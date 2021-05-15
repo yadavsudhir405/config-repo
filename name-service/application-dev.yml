@@ -1,6 +1,3 @@
 names: foo-dev-5
 app:
   name: config-prop-foo-dev-5
-name-service:
-  ribbon:
-    listOfServers: localhost:7070,localhost:7071
