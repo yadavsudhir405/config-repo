@@ -1,1 +1,3 @@
 names: foo
+app:
+  name: config-prop-foo

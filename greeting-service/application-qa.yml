@@ -1,1 +1,2 @@
-message: Hello-qa
+app:
+  message: Hello-qa
